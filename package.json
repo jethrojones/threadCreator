@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "thread-creator",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "This is thread creator plugin for Obsidian (https://obsidian.md)",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",

@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "threadCreator",
+	"name": "Thread Creator",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Allows you to turn your note into a twitter thread.",
+	"author": "jethrojones",
+	"authorUrl": "https://jethro.site/",
+	"fundingUrl": "https://buymeacoffee.com/jethrojones",
 	"isDesktopOnly": false
 }
