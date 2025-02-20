@@ -65,15 +65,7 @@ export default class TwitterThreadPlugin extends Plugin {
 			}
 		});
 
-		// Add a ribbon icon to the left sidebar.
-		const ribbonIconEl = this.addRibbonIcon('twitter', 'Twitter Thread Plugin', (evt: MouseEvent) => {
-			new Notice('Twitter Thread Plugin activated!');
-		});
-		ribbonIconEl.addClass('twitter-thread-ribbon-class');
-
-		// Add a status bar item to the bottom.
-		const statusBarItemEl = this.addStatusBarItem();
-		statusBarItemEl.setText('Twitter Thread Plugin');
+	
 
 		// Add settings tab.
 		this.addSettingTab(new TwitterThreadSettingTab(this.app, this));

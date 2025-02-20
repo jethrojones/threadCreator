@@ -1,6 +1,6 @@
 {
-	"id": "threadCreator",
-	"name": "Thread Creator",
+	"id": "createThread",
+	"name": "Create Thread",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Allows you to turn your note into a twitter thread.",
